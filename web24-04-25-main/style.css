@@ -1,0 +1,22 @@
+#marca{
+ display: flex;
+ color: black; 
+ font-family: 'Verdana'; 
+ font-size: 24px;
+ text-align: center;
+ text-align: justify;
+}
+
+#image{
+	height: 400px;
+	width: 400px;
+}
+
+#titulo{
+	font-family: 'Verdana';
+	text-align: center;
+}
+
+#imageInicial{
+	text-align: center;
+}
