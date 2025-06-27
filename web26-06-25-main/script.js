@@ -12,7 +12,7 @@ while(chute != secreto){
         alert(`Acertou Media é ${total/tentativa}`)
 
     }else if(chute > secreto){
-        alert(`O número secreto é menor que ${chute}. Tente novamente.`)s
+        alert(`O número secreto é menor que ${chute}. Tente novamente.`)
     }else{
         alert(`O número secreto é maior que ${chute}. Tente novamente.`)
     }
